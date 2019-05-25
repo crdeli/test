@@ -1,0 +1,21 @@
+bin:binary二进制的系统命令脚本
+boot：boot系统启动文件
+dev：device存放一些访问外部设备的端口，也可认为是
+etc：etcetera 软件及系统程序所需的配置文件
+home：home 用户主目录
+lib：存放系统动态连接共享库，基本代码模块
+mnt：mount 基本挂载目录
+opt：option 可选应用安装路径
+proc：process进程信息文件
+root：root根目录，需要root权限修改，无特殊意义
+run：run 系统运行时需要的
+sbin:system binary 二进制的系统命令脚本普通用户不用
+snap：snap 用snap管理的软件安装
+srv：service 用于存储本机或本服务器提供的服务或数据
+sys：system 系统文件
+tmp：temporary自动销毁的缓存文件
+usr：user用户程序目录
+var：variable 系统产生的不可自动销毁的缓存文件
+
+
+
